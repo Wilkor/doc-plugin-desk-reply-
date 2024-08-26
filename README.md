@@ -43,11 +43,19 @@ A instalação da **DeskReply** é feita diretamente no **Router**. Siga as etap
 
 Após clicar em **Usar no Chrome**, a extensão estará ativa e pronta para uso, integrando-se automaticamente ao BlipDesk.
 
+
 ## 4. Exemplos de Uso
 
 Aqui está um exemplo de como a **DeskReply** funciona na prática:
 
 - Um cliente envia uma imagem em resposta a uma mensagem anterior. A extensão exibe essa imagem diretamente na tela de suporte, permitindo ao atendente ver claramente a referência do cliente.
+
+  ![image](https://github.com/user-attachments/assets/c58a983e-2e19-483b-9d08-e4e80f418f98)
+
+
+  ![image](https://github.com/user-attachments/assets/e0f81de1-5f3d-4782-bb58-e6aa73a7343e)
+
+
 
 ## 5. Suporte
 
